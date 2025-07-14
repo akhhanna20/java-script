@@ -92,7 +92,7 @@
     {
       "subsectionOrder": 1,
       "title": "Overview of JavaScript",
-      "content": "JavaScript is a versatile programming language primarily used for web development to add interactivity to websites. It allows developers to create dynamically updating content, control multimedia, animate images, and much more.",
+      "content": "JavaScript is a versatile programming language primarily used for web development to add interactivity to websites. It allows developers to create dynamically updating content, control multimedia, animate images, and much more-NEWWWW.",
       "videoUrl": "http://video.com/overviewOfJavaScript",
       "codeExamples": [],
       "externalLinks": [
@@ -107,10 +107,10 @@
             "Managing databases"
           ],
           "answer": "Adding interactivity to web pages",
-          "_id": "68756103979d4d6c480d7779"
+          "_id": "68756229979d4d6c480d77aa"
         }
       ],
-      "_id": "68756103979d4d6c480d7778"
+      "_id": "68756229979d4d6c480d77a9"
     },
     {
       "subsectionOrder": 2,
@@ -132,10 +132,10 @@
             "Command-line interfaces"
           ],
           "answer": "Web browsers",
-          "_id": "68756103979d4d6c480d777b"
+          "_id": "68756229979d4d6c480d77ac"
         }
       ],
-      "_id": "68756103979d4d6c480d777a"
+      "_id": "68756229979d4d6c480d77ab"
     },
     {
       "subsectionOrder": 3,
@@ -157,10 +157,10 @@
             "const 123age = 30;"
           ],
           "answer": "let name = 'John';",
-          "_id": "68756103979d4d6c480d777d"
+          "_id": "68756229979d4d6c480d77ae"
         }
       ],
-      "_id": "68756103979d4d6c480d777c"
+      "_id": "68756229979d4d6c480d77ad"
     }
   ],
   "supplementalVideos": [
