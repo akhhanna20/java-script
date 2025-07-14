@@ -2,7 +2,7 @@
 
 ## Content
 
-JavaScript is a versatile programming language primarily used for web development to add interactivity to websites. It allows developers to create dynamically updating content, control multimedia, animate images, and much more.
+JavaScript is a versatile programming language primarily used for web development to add interactivity to websites. It allows developers to create dynamically updating content, control multimedia, animate images, and much more-NEWWWW.
 
 ## Video URL
 
