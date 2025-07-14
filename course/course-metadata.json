@@ -1,0 +1,35 @@
+{
+  "id": "6875608138773ab83ceaa270",
+  "title": "Java Script",
+  "description": "A comprehensive course focused on learning and understanding the fundamental concepts and application of JavaScript.",
+  "learningObjectives": [
+    "Understand basics of JavaScript",
+    "Apply JavaScript concepts in practical applications",
+    "Develop skills to debug and troubleshoot JavaScript code",
+    "Implement JavaScript in web development",
+    "Complete a final project to demonstrate understanding and practical implementation of learned skills"
+  ],
+  "finalProjectDetails": {
+    "overview": "For the final project, students will create a dynamic, interactive web page using the JavaScript skills they have learned.",
+    "planningResources": [
+      "JavaScript reference guides",
+      "Project planning templates",
+      "JavaScript debugging tools"
+    ],
+    "submissionInstructions": "The final project should be uploaded as a .zip file containing all necessary code files. Please include a README file explaining the structure of your project.",
+    "requirements": [
+      ""
+    ]
+  },
+  "createdBy": {
+    "_id": "6875412897c1eb14a4924dc6",
+    "name": "Hanna Akhramchuk",
+    "image": "https://avatars.githubusercontent.com/u/75540219?v=4",
+    "githubUsername": "akhhanna20"
+  },
+  "contributors": [],
+  "status": "pending",
+  "originalGithubUrl": null,
+  "createdAt": "2025-07-14T19:54:41.109Z",
+  "updatedAt": "2025-07-14T19:54:41.109Z"
+}
