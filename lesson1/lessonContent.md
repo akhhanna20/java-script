@@ -116,7 +116,7 @@ Submit your 'script.js' and a screenshot displaying the alert after the page loa
 
 ### Overview of JavaScript
 
-JavaScript is a versatile programming language primarily used for web development to add interactivity to websites. It allows developers to create dynamically updating content, control multimedia, animate images, and much more.
+JavaScript is a versatile programming language primarily used for web development to add interactivity to websites. It allows developers to create dynamically updating content, control multimedia, animate images, and much more-NEWWWW.
 
 **Video URL:** http://video.com/overviewOfJavaScript
 
