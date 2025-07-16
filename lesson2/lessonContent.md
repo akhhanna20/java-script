@@ -1,20 +1,18 @@
-# JavaScript Basics
+# JavaScript Language Fundamentals
 
 ## Overview
 
-This week focuses on the basics of JavaScript, including syntax, data types, variables, and simple operations.
+This lesson delves deeper into the language fundamentals of JavaScript
 
 ## Learning Objectives
 
-- Learn basic JavaScript syntax
-- Understand JavaScript data types
-- Use JavaScript variables
+- Understand and use JavaScript operators
+- Master the use of JavaScript Control Structures
 
 ## Topics Covered
 
-- JavaScript syntax
-- JavaScript data types
-- JavaScript variables
+- Operators
+- Control Structures
 
 ## Status
 
