@@ -1,22 +1,21 @@
 {
-  "id": "6875608138773ab83ceaa270",
+  "id": "6877b4bbcfc80690ffe0f5ad",
   "title": "Java Script",
-  "description": "A comprehensive course focused on learning and understanding the fundamental concepts and application of JavaScript.",
+  "description": "This course offers a comprehensive guide to learning JavaScript, a key web technology along with HTML and CSS with a focus on functionality.",
   "learningObjectives": [
-    "Understand basics of JavaScript",
-    "Apply JavaScript concepts in practical applications",
-    "Develop skills to debug and troubleshoot JavaScript code",
-    "Implement JavaScript in web development",
-    "Complete a final project to demonstrate understanding and practical implementation of learned skills"
+    "Understand JavaScript language fundamentals",
+    "Master the use of advanced JavaScript features",
+    "Write JavaScript applications",
+    "Understand and apply JavaScript's object-oriented nature",
+    "Handle errors and debug JavaScript code"
   ],
   "finalProjectDetails": {
-    "overview": "For the final project, students will create a dynamic, interactive web page using the JavaScript skills they have learned.",
+    "overview": "For the final project, you will design and implement an interactive web application of your choice using JavaScript.",
     "planningResources": [
-      "JavaScript reference guides",
-      "Project planning templates",
-      "JavaScript debugging tools"
+      "Mind Mapping tools",
+      "Storyboarding apps"
     ],
-    "submissionInstructions": "The final project should be uploaded as a .zip file containing all necessary code files. Please include a README file explaining the structure of your project.",
+    "submissionInstructions": "Zip your project files and upload them to the designated platform by the due date. Include a readme file outlining the functionality of your application.",
     "requirements": [
       ""
     ]
@@ -30,6 +29,6 @@
   "contributors": [],
   "status": "pending",
   "originalGithubUrl": null,
-  "createdAt": "2025-07-14T19:54:41.109Z",
-  "updatedAt": "2025-07-14T19:54:41.109Z"
+  "createdAt": "2025-07-16T14:18:35.582Z",
+  "updatedAt": "2025-07-16T14:18:35.582Z"
 }
