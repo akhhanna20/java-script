@@ -1,18 +1,18 @@
-# Objects and Arrays in JavaScript
+# JavaScript’s Object-Oriented Nature
 
 ## Overview
 
-This week covers the use of objects and arrays in JavaScript, integral to structuring and storing data.
+This lesson covers the Object-Oriented nature of JavaScript
 
 ## Learning Objectives
 
-- Understand JavaScript objects
-- Work with JavaScript arrays
+- Understand the nature of objects in JavaScript
+- Be able to use the 'this' keyword
 
 ## Topics Covered
 
-- JavaScript objects
-- JavaScript arrays
+- Object Creation
+- 'This' keyword
 
 ## Status
 

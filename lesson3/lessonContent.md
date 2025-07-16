@@ -1,20 +1,19 @@
-# Control Structures in JavaScript
+# Advanced JavaScript Features
 
 ## Overview
 
-The lesson will cover control structures in JavaScript, including conditions, loops, and functions.
+This lesson introduces you to more complex aspects and features of JavaScript
 
 ## Learning Objectives
 
-- Learn JavaScript conditions
-- Use loops in JavaScript
-- Understand and use functions in JavaScript
+- Be able to use arrays and objects in JavaScript
+- Understand and use event handling
 
 ## Topics Covered
 
-- Conditions in JavaScript
-- Loops in JavaScript
-- Functions in JavaScript
+- Arrays
+- Objects
+- Event Handling
 
 ## Status
 

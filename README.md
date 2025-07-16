@@ -1,6 +1,6 @@
 # Java Script
 
-A comprehensive course focused on learning and understanding the fundamental concepts and application of JavaScript.
+This course offers a comprehensive guide to learning JavaScript, a key web technology along with HTML and CSS with a focus on functionality.
 
 ## Course Overview
 
@@ -8,29 +8,28 @@ This course provides comprehensive learning materials for Java Script.
 
 ## Learning Objectives
 
-- Understand basics of JavaScript
-- Apply JavaScript concepts in practical applications
-- Develop skills to debug and troubleshoot JavaScript code
-- Implement JavaScript in web development
-- Complete a final project to demonstrate understanding and practical implementation of learned skills
+- Understand JavaScript language fundamentals
+- Master the use of advanced JavaScript features
+- Write JavaScript applications
+- Understand and apply JavaScript's object-oriented nature
+- Handle errors and debug JavaScript code
 
 ## Course Structure
 
 ### Lesson 1: Introduction to JavaScript
-### Lesson 2: JavaScript Basics
-### Lesson 3: Control Structures in JavaScript
-### Lesson 4: Objects and Arrays in JavaScript
-### Lesson 5: Advanced JavaScript Concepts
+### Lesson 2: JavaScript Language Fundamentals
+### Lesson 3: Advanced JavaScript Features
+### Lesson 4: JavaScript’s Object-Oriented Nature
+### Lesson 5: Error Handling and Debugging
 
 ## Final Project
 
-For the final project, students will create a dynamic, interactive web page using the JavaScript skills they have learned.
+For the final project, you will design and implement an interactive web application of your choice using JavaScript.
 
 ### Planning Resources
 
-- JavaScript reference guides
-- Project planning templates
-- JavaScript debugging tools
+- Mind Mapping tools
+- Storyboarding apps
 
 ### Requirements
 
@@ -38,7 +37,7 @@ For the final project, students will create a dynamic, interactive web page usin
 
 ### Submission Instructions
 
-The final project should be uploaded as a .zip file containing all necessary code files. Please include a README file explaining the structure of your project.
+Zip your project files and upload them to the designated platform by the due date. Include a readme file outlining the functionality of your application.
 
 ## Contributors
 
@@ -47,4 +46,4 @@ Course contributors will be listed here.
 ---
 
 *Created by: Hanna Akhramchuk*
-*Last updated: 7/14/2025*
+*Last updated: 7/16/2025*
