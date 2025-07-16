@@ -1,20 +1,18 @@
-# Advanced JavaScript Concepts
+# Error Handling and Debugging
 
 ## Overview
 
-The final lesson before the project will cover advanced JavaScript concepts including ES6 features, error handling, debugging, and more.
+This lesson teaches how to handle errors and debug in JavaScript
 
 ## Learning Objectives
 
-- Understand ES6 features
-- Handle errors in JavaScript
-- Debug JavaScript code
+- Understand error handling in JavaScript
+- Master the basics of debugging JavaScript code
 
 ## Topics Covered
 
-- JavaScript ES6 features
-- Error handling in JavaScript
-- Debugging JavaScript code
+- Try-Catch statement
+- Debugging Techniques
 
 ## Status
 
